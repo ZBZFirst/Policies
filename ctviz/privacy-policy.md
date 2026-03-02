@@ -1,3 +1,9 @@
+---
+layout: default
+title: CTViz Privacy Policy
+permalink: /ctviz/privacy-policy/
+---
+
 # Privacy Policy for CTViz
 
 **Effective date:** 2026-03-02  
