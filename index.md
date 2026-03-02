@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Policy Repository
+title: Policies
 permalink: /
 ---
 
-# Policy Repository
+# Policies
 
-This site hosts public policy pages for apps maintained in this repository.
+Privacy policies published by this repository.
 
 ## Available Policies
 
-- [CTViz Privacy Policy](/ctviz/privacy-policy/)
+1. [CTViz Privacy Policy](/ctviz/privacy-policy/)
