@@ -4,7 +4,7 @@ This repository is configured for GitHub Pages + Jekyll so Markdown policy files
 
 ## Available Policies
 
-1. [CTViz Privacy Policy](/ctviz/privacy-policy/)
+1. [CTViz Privacy Policy](/ctviz/privacy-policy.md)
 
 ## Structure
 
