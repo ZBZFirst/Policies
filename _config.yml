@@ -1,3 +1,8 @@
 title: Policy Repository
 description: Public policy pages for maintained applications.
 markdown: kramdown
+
+# GitHub Pages settings for this project repository.
+# If the repository name changes, update `baseurl`.
+url: https://zbzfirst.github.io
+baseurl: /Policies
