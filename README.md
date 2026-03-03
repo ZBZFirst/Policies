@@ -4,7 +4,7 @@ This repository is configured for GitHub Pages + Jekyll so Markdown policy files
 
 ## Available Policies
 
-1. [CTViz Privacy Policy](app-privacy-policies/ctviz/privacy-policy.md)
+1. [CTViz Privacy Policy](app-privacy-policies/ctviz/policy.md)
 
 ## Subject Areas
 
@@ -26,7 +26,7 @@ Example policy URL:
 
 - `index.md` — landing page listing available policies.
 - `app-privacy-policies/` — subject folder for application privacy policies.
-  - `ctviz/privacy-policy.md` — CTViz privacy policy page.
+  - `ctviz/policy.md` — CTViz policy body content file.
 - `respiratory-therapy/` — subject folder for Respiratory Therapy policies and evidence.
   - `policies/` — policy documents.
   - `supporting-evidence/` — supporting articles/guidelines.

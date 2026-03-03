@@ -4,6 +4,12 @@ title: Oxygen Delivery Device Selection
 permalink: /respiratory-therapy/policies/oxygen-delivery-device-selection/
 ---
 
-# Oxygen Delivery Device Selection (Nasal Cannula Sizing)
+{% capture policy_content %}{% include_relative policy.md %}{% endcapture %}
+{{ policy_content }}
 
-Framework placeholder for a future Respiratory Therapy policy.
+---
+
+## Supporting Documentation
+
+{% capture supporting_docs %}{% include_relative supporting-documentation.md %}{% endcapture %}
+{{ supporting_docs }}

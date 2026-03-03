@@ -14,3 +14,6 @@ Add Respiratory Therapy policy documents in this folder.
 - [Oxygen Delivery Device Selection]({{ '/respiratory-therapy/policies/oxygen-delivery-device-selection/' | relative_url }})
 - [Intubation & Mechanical Ventilation Need Assessment]({{ '/respiratory-therapy/policies/intubation-mechanical-ventilation/' | relative_url }})
 - [Suctioning for Artificial Airways]({{ '/respiratory-therapy/policies/suctioning-artificial-airways/' | relative_url }})
+
+
+Each policy page in this section is assembled from two standalone Markdown files: `policy.md` and `supporting-documentation.md`.

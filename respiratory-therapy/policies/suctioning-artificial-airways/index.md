@@ -4,6 +4,12 @@ title: Suctioning for Artificial Airways
 permalink: /respiratory-therapy/policies/suctioning-artificial-airways/
 ---
 
-# Suctioning for Artificial Airways
+{% capture policy_content %}{% include_relative policy.md %}{% endcapture %}
+{{ policy_content }}
 
-Framework placeholder for a future Respiratory Therapy policy.
+---
+
+## Supporting Documentation
+
+{% capture supporting_docs %}{% include_relative supporting-documentation.md %}{% endcapture %}
+{{ supporting_docs }}

@@ -11,6 +11,8 @@ Privacy policies for supported applications.
 ## Apps
 
 - [CTViz Privacy Policy]({{ '/app-privacy-policies/ctviz/privacy-policy/' | relative_url }})
+  - Policy body file: `ctviz/policy.md`
+  - Supporting docs file: `ctviz/supporting-documentation.md`
 
 
 ## Short link alias
